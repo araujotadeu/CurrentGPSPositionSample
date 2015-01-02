@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CurrentGPSPosition</string>
+
+    <string name="string_title">GPS Location</string>
+    
+    <string name="string_ok">OK</string>
+    
+    <string name="string_not_title">Location Update</string>
+    <string name="string_not_text">New Position. At position: </string>
+
+    <string name="string_not_connection_title">Internet connection not available</string>
+    <string name="string_not_connection_text">Any internet connection found. The connection is necessary to load the map.\n\n* The system settings will opens automatically after close this message.</string>    
+    
+    <string name="string_not_providers_title">Location not enabled</string>
+    <string name="string_not_providers_text">Please enable the location providers for the application to work correctly.\n\n* The system location settings will opens automatically after close this message.</string>
+    
+</resources>
